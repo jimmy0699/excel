@@ -18,6 +18,12 @@
         "illuminate/database": "^7.30.4 || ^8.24.0|^9.0",
         "phpunit/phpunit": "^9.5"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jimmy0699/spout.git"
+        }
+    ]
     "autoload": {
         "psr-4": {
             "Rap2hpoutre\\FastExcel\\": "src/"
