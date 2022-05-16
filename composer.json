@@ -23,7 +23,7 @@
             "type": "vcs",
             "url": "https://github.com/jimmy0699/spout.git"
         }
-    ]
+    ],
     "autoload": {
         "psr-4": {
             "Rap2hpoutre\\FastExcel\\": "src/"
